@@ -1,4 +1,4 @@
-/SYFTE
+#Stewart plattform för kraftmätning
 Bygga en stewart plattform och kalibrera. även ta reda på felmarginaler. Denna plattform är viktig för AirF då de behöver precisa data på 
 lyftkraft och vridmoment över tid från motorerna för att kunna få simulerade överföringsfunktioner på drönaren. detta behövs för att kunna tuna PID-loopen 
 som styr drönaren.
